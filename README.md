@@ -1,16 +1,16 @@
-#ASCII Time
+# ASCII Time
 A mellow macOS screensaver for **cool** hackers. It displays the current date and time with a slowly strobing ASCII background that is generated from a random stock macOS background image found in `/Library/Desktop Pictures/`.
 
-##Install
+## Install
 Copy `ASCII Time.qtz` to `~/Library/Screen Savers/`
 
-##Preview
+## Preview
 ![Preview](preview.gif)
 
-##Tweaking
+## Tweaking
 Open `ASCII Time.qtz` in Quartz Composer and fiddle to your heart's content.
 
-###Quick walkthrough
+### Quick walkthrough
 
 1. Select patch
 2. Click **Patch Inspector**
